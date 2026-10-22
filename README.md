@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+#  About Me:
 I’m currently working on Building projects and improving my programming skills I’m looking to collaborate on Open-source and interesting software projects I’m looking for help with: Learning new technologies and becoming a better developer I’m currently learning: Web development, Git/GitHub, and modern programming tools Ask me about: Programming, projects, GitHub, or anything tech-related Fun fact: I enjoy turning ideas into projects and learning something new every day!
 
 
